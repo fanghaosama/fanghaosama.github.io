@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## 生命不息，学习不止
 
-You can use the [editor on GitHub](https://github.com/fanghaosama/halsblog.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a blog site about 3D frameworks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I don't like to share something I learnt to anyone in any purpose. So don't expect too much in this blog site.
 
-### Markdown
+But I'll still be appreciate if you like my articles and take something useful.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Articles may be written in Chinese. Just watch the codes. And code comments will all be in English.
 
-```markdown
-Syntax highlighted code block
+### New
 
-# Header 1
-## Header 2
-### Header 3
+[10/17/2021 Three.js的Animation框架](./threejs/animation.md)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fanghaosama/halsblog.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

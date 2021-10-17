@@ -14,5 +14,5 @@ Three.js是优秀出色的网页端WebGl框架，Javascript代码实现简单，
 
 总览
 
-![animate](.\animate.png)
+![animation uml](https://raw.githubusercontent.com/fanghaosama/fanghaosama.github.io/gh-pages/threejs/animate.png)
 
